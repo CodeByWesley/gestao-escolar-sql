@@ -1,15 +1,13 @@
-# School Database (SQL Study Project).
+# Banco de Dados Escolar (Projeto de Estudo SQL)
 
-Relational database schema for a school management system including:
+Esquema de banco de dados relacional para um sistema de gestão escolar, incluindo:
 
-- Students
-- Courses
-- Classes
-- Enrollments
+* Alunos
+* Cursos
+* Turmas
+* Matrículas
 
-Technologies:
-- SQL
-- Database Modeling  
+Tecnologias:
 
-
-
+* SQL
+* Modelagem de Banco de Dados
